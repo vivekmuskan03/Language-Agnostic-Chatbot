@@ -1,0 +1,119 @@
+# Node dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+logs/
+logs/**
+
+# Runtime / PID files
+pids/
+*.pid
+*.seed
+
+# Build / output
+dist/
+build/
+out/
+coverage/
+.nyc_output/
+.tmp/
+.temp/
+.cache/
+.parcel-cache/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Uploaded files / runtime data
+uploads/
+uploads/**
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+
+# Misc
+.eslintcache
+.serverless/
+.firebase/
+.crt
+.key
+.pem
+```// filepath: f:\MSD Project\chatbot\backend\.gitignore
+# Node dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+logs/
+logs/**
+
+# Runtime / PID files
+pids/
+*.pid
+*.seed
+
+# Build / output
+dist/
+build/
+out/
+coverage/
+.nyc_output/
+.tmp/
+.temp/
+.cache/
+.parcel-cache/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Uploaded files / runtime data
+uploads/
+uploads/**
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+
+# Misc
+.eslintcache
+.serverless/
+.firebase/
+.crt
+.key
+.pem
